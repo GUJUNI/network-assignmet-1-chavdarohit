@@ -2,7 +2,7 @@
 Name       :- Chavda Rohit 
 Roll no    :- 04
 Course     :- Mca 2
-Subject    :- Operating system
+Subject    :- Networking
 Assignment :- assignment 2
 2) Write the Tcp program in java which checks the String is Anagram or not on the server side 
 and give respond to the client
