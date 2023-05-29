@@ -3,7 +3,7 @@
 Name       :- Chavda Rohit 
 Roll no    :- 04
 Course     :- Mca 2
-Subject    :- Operating system
+Subject    :- Networking
 Assignment :- assignment 2
 3) Write a UDP program in which the client ask server that how many devices is connected to that server
 and then server give the response on that
