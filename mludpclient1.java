@@ -3,7 +3,7 @@
 Name       :- Chavda Rohit 
 Roll no    :- 04
 Course     :- Mca 2
-Subject    :- Operating system
+Subject    :- Networking
 Assignment :- assignment 2
 
 4) Write a UDP program in which the client will ask the server about thier storage size and server
