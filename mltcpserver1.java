@@ -2,7 +2,7 @@
 Name       :- Chavda Rohit 
 Roll no    :- 04
 Course     :- Mca 2
-Subject    :- Operating system
+Subject    :- Networking
 Assignment :- assignment 2
 1) Write a multhreaded TCP client server program that take string from the client and server finds the 
  occurence of that word from the string given by client 
